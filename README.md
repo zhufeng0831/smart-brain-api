@@ -1,11 +1,55 @@
-# SmartBrain-api - v2
-Final project for Udemy course
+# SmartBrain-api
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
-4. You must add your own API key in the `controllers/image.js` file to connect to Clarifai API.
+## Overview
+  Project for Udemy course https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/
 
-You can grab Clarifai API key [here](https://www.clarifai.com/)
+  Final web app: https://smart-brain-fz.herokuapp.com/
+  
+  Build a full stack web application for image recognition using a machine learning API
+  Develop frontend with React and backend server with Express.js, set up Postgres database, and deploy the app on Heroku for online accessible 
 
-** Make sure you use postgreSQL instead of mySQL for this code base.
+## skills/frameworks
+
+  HTML/HTML5
+
+  CSS/CSS3
+
+  Responsive Design
+
+  Flexbox
+
+  CSS Grid
+
+  Bootstrap 4
+
+  DOM Manipulation
+
+  Javascript (including ES6/ES7/ES8/ES9/ES10)
+
+  Asynchronous JavaScript
+
+  HTTP/JSON/AJAX
+
+  React + Redux
+
+  Git + Github
+
+  Command Line
+
+  Node.js
+
+  Express.js
+
+  NPM
+
+  PostgresSQL
+
+  SQL
+
+  Authentication
+
+  Authorization
+
+  Security
+
+  Production and Deployment 
